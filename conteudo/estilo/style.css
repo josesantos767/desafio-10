@@ -46,3 +46,10 @@ header > nav {
     text-decoration: none;
     color: var(--cor4);
 }
+main {
+    padding: 20px;
+    background: 50px;
+    color: rgb(44, 59, 14);
+    margin: 20px 500px 20px 20px;
+    border: 1px solid var(--cor3);
+}
